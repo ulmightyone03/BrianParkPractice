@@ -1,0 +1,27 @@
+
+public class GuessingGame {
+	
+	
+	
+	public static void main(String[] args) {
+		int m = 5;
+		System.out.println(m);
+		
+		System.out.println("Hello Vivian"); 
+		
+		int myNum = 6;
+		
+		System.out.println(myNum);
+		
+		for (int x = 0; x < 5; x = x + 2) {
+			System.out.println("Minh is my Hommie");
+			
+		}
+		
+	}
+	
+
+	
+}
+
+

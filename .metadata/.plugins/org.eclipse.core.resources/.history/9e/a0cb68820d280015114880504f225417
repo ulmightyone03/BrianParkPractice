@@ -1,0 +1,14 @@
+
+public class GuessingGame {
+	
+	
+	
+
+	public static void main(String[] args) {
+		int m = 5;
+	}
+
+	
+}
+
+

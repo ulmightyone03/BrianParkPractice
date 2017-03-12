@@ -1,0 +1,24 @@
+
+public class ExampleDoWhile {
+	
+/*
+ * Here is a "do while" statement
+ * similar to "while" statement
+ * but DIFFERENT LOL
+ */
+
+	public static void main(String[] args) {
+		// "Do~While" statement practice
+		
+		int x = 10;
+		
+		do{
+			System.out.println("x = " + x);
+			x--;
+			
+		}while(x > 0);
+
+
+	}
+
+}

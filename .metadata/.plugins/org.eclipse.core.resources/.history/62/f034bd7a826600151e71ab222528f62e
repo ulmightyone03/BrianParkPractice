@@ -1,0 +1,19 @@
+
+public class ExampleFor {
+	
+/*
+ * I am finally starting
+ * For loops
+ * Go me kekeke~
+ */
+
+	public static void main(String[] args) {
+		// "For Loop" practice
+// i++  i = i + 1
+	// for(initial value; condition; increment/decrement)
+		for(int i = 0; i <= 10; i++){
+			System.out.println("i = " + i);
+		}
+	}
+
+}

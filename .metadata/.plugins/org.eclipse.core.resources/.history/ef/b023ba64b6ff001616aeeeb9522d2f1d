@@ -1,0 +1,65 @@
+
+public class SongHW {
+	public static void main(String[] args) {
+		printVerse1();
+		printVerse2();
+		printVerse3();
+		printVerse4();
+		
+		
+		
+		
+	}
+	
+	// This method prints out the first verse of the poem~
+	public static void printVerse1() {
+		System.out.println("There was an old lady who swallowed a fly.");
+		printFly();
+		System.out.println(""); // This is for a blank new line~
+	}
+	
+	public static void printFly() {
+		System.out.println("I don't know why she swallowed that fly,");
+		System.out.println("Perhaps she'll die.");
+	}
+	
+	public static void printVerse2() {
+		System.out.println("There was an old woman who swallowed a spider,");
+		System.out.println("That wriggled and iggled and jiggled inside her.");
+		printSpider();
+		printFly();
+		System.out.println("");
+	}
+	
+	public static void printSpider() {
+		System.out.println("She swallowed the spider to catch the fly,");
+	}
+	
+	public static void printVerse3() {
+		System.out.println("There was an old woman who swallowed a bird,");
+		System.out.println("How absurd to swallow a bird.");
+		printBird();
+		printSpider();
+		printFly();
+		System.out.println("");
+	}	
+	
+	public static void printBird() {
+		System.out.println("She swallowed the bird to catch the spider,");
+	}
+	
+	public static void printVerse4() {
+		System.out.println("There was an old woman who swallowed a cat.");
+		System.out.println("Imagine that to swallow a cat");
+		printCat();
+		printBird();
+		printSpider();
+		printFly();
+		System.out.println("");
+	}
+	
+	public static void printCat() {
+		System.out.println("She swallowed the cat to catch the bird,");
+	}
+	
+}

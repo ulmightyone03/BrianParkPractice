@@ -1,0 +1,34 @@
+
+public class ExampleAndOr {
+	
+/*
+ * Starting "and & or" statements
+ * Wish me luck
+ * I hope my future stays bright!
+ */
+
+	public static void main(String[] args) {
+		// "And & Or" statement practice
+		
+		int x, y;
+		x = 10;
+		y = -10;
+		// && and
+		// || or
+		if(x > 0 && y > 0){
+			System.out.println(" Both num are +ve");
+		}else if(x > 0 || y > 0){
+			System.out.println(" at least one num is +ve");
+		}else{ //else{ is also else if( x < 0 && y < 0);
+			System.out.println(" Both num are -ve");
+		}
+
+	}	int x, y;
+		x = 10;
+		y = -10;
+		
+		if(x > 0 && y > 0){
+			System.out.println(" Both num are +ve");
+		}
+
+}

@@ -1,0 +1,38 @@
+
+public class GuessingGame {
+	
+	
+	
+	public static void main(String[] args) {
+		
+		int m = 5;
+		System.out.println(m);
+		
+		System.out.println("Hello Vivian"); 
+		
+		int myNum = 6;
+		System.out.println(myNum);
+		
+		for (int x = 0; x < 5; x++) {
+			System.out.println("Minh is my Hommie");	
+		}
+		
+		for (int x = 1; x<= 10; x++) {
+			System.out.println(x);
+		}
+	
+		int sum = 0; 
+		for (int i = 10; i<=20; i = i + 2) {
+			sum = sum + i;
+			
+		}
+		
+		System.out.println(sum);
+		
+	}
+	
+
+	
+}
+
+

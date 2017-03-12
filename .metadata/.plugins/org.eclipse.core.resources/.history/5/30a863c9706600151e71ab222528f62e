@@ -1,0 +1,41 @@
+
+public class ExampleIf {
+	
+/*
+ * This is the first time
+ * Using If-else Condition
+ * Save me LOL
+ */
+
+	public static void main(String[] args) {
+		// "If-else" Condition Practice
+		
+		int x = 20;
+		int y = 20;
+		
+		if(x < y){
+			System.out.println("X is less than Y");
+		}
+		
+		if(x == y){
+			System.out.println("X is equal to Y");
+		}
+		
+		if(x > y){
+			System.out.println("X is greater than Y");
+		}
+		
+		int a = 10;
+		int b = 10;
+		
+		if(a < b){
+			System.out.println("A is less than B");
+		}else if(a == b){
+			System.out.println("A is equal to B");
+		}else if(a > b){
+			System.out.println("A is equal to B");
+		}
+	}	
+
+
+}
