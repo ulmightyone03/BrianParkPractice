@@ -101,10 +101,9 @@ public class SongHW {
 	public static void printVerse7() {
 		System.out.println("There was an old woman who swallowed a horse,");
 		System.out.println("She died of course.");
-		System.out.println("");
 	}
 	
 	public static void printVerse8() {
-		System.out.println("Minh is a baller ;).");
+		System.out.println("Minh is a baller.");
 	}
 }
