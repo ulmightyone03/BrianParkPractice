@@ -105,6 +105,6 @@ public class SongHW {
 	}
 	
 	public static void printVerse8() {
-		System.out.println("Minh is a baller ;).");
+		System.out.println("Minh is a baller.");
 	}
 }
