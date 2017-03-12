@@ -15,7 +15,6 @@ public class SongHW {
 		printVerse7();
 	}
 	
-	// This is to print out the initial verse
 	public static void printVerse1() {
 		System.out.println("There was an old woman who swallowed a fly.");
 		printFly();
